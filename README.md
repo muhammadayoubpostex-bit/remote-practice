@@ -6,3 +6,4 @@ This repository demonstrates Git remote operations.
 - Push/Pull operations
 - Remote tracking
 - Collaboration workflows
+Added from cloned repo
